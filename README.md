@@ -3,6 +3,7 @@
 [![Git Releases](https://img.shields.io/github/release/mojaloop/central-ledger.svg?style=flat)](https://github.com/mojaloop/central-ledger/releases)
 [![Docker pulls](https://img.shields.io/docker/pulls/mojaloop/central-ledger.svg?style=flat)](https://hub.docker.com/r/mojaloop/central-ledger)
 [![CircleCI](https://circleci.com/gh/mojaloop/central-ledger.svg?style=svg)](https://app.circleci.com/pipelines/github/mojaloop/central-ledger)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FJBornman%2Fcentral-ledger.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FJBornman%2Fcentral-ledger?ref=badge_shield)
 
 The central ledger is a series of services that facilitate clearing and settlement of transfers between DFSPs, including the following functions:
 
@@ -111,3 +112,7 @@ For more information on anchore and anchore-cli, refer to:
 - [Anchore CLI](https://github.com/anchore/anchore-cli)
 - [Circle Orb Registry](https://circleci.com/orbs/registry/orb/anchore/anchore-engine)
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FJBornman%2Fcentral-ledger.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FJBornman%2Fcentral-ledger?ref=badge_large)
